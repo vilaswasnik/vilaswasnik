@@ -1,5 +1,3 @@
-<!-- Draft for a future vilaswasnik/vilaswasnik profile repo — not published yet. -->
-
 # Hi, I'm Vilas Wasnik
 
 **Senior Linux & DevOps Engineer** — 15+ years running Linux infrastructure in regulated environments (insurance: Genworth, MetLife, American Family Insurance), now building local-first AI agents for the work I know best.
